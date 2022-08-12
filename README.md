@@ -27,9 +27,8 @@ click here ->  &nbsp;<a href="https://gdsc.community.dev/alpha-arts-and-science-
         <img loading="lazy" src="https://googlediscovery.com/wp-content/uploads/google-developers.png" 
     height="40">
 
-
+<br>
 </p>
-
 <h2 align="center">📫 Contact us</h2>
 <br>
 <p align="center">
