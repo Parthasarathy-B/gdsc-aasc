@@ -31,7 +31,6 @@ click here ->  &nbsp;<a href="https://gdsc.community.dev/alpha-arts-and-science-
 </p>
 
 <h2 align="center">📫 Contact us</h2>
-<hr>
 <br>
 <p align="center">
     <a href="https://github.com/GDSC-AASC" target="_blank">
