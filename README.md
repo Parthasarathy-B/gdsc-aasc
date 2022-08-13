@@ -19,13 +19,6 @@ There will be various campaigns and initiatives that you can expect and look for
 
 <br>
   <img align="centre" alt="JPG" src="assets/IMG_20220812_202416.jpg" width="1200px"/>
-<br>
-
-## Wanna join with us?
-
-click here ->  &nbsp;<a href="https://gdsc.community.dev/alpha-arts-and-science-college-chennai/" target="_blank">
-        <img loading="lazy" src="https://googlediscovery.com/wp-content/uploads/google-developers.png" 
-    height="40">
 
 <br>
 </p>
